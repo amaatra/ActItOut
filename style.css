@@ -3,6 +3,7 @@ body{
     letter-spacing: 0.3px;
     padding:5%;
     transition: 0.25s all ease-in-out;
+    text-align:justify;
 }
 
 .navibar{
