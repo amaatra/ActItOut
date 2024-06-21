@@ -1,0 +1,47 @@
+p{
+    font-size: 16px;
+}
+
+.carousel-item img{
+    height:770px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:inherit;
+    text-align:center;
+    padding:20px 10% 20px 10%;
+  }
+
+.centered h4{
+    font-weight:300;
+}
+
+.container{
+    margin:-10px 0;
+    padding:20px 5%;
+    text-align:left;
+}
+
+.container img{
+    width:100%;
+}
+
+.personal{
+    padding:20px 5% 20px 5%;
+}
+
+.personal h2{
+    padding-top: 200px;
+}
+
+.personal img{
+    height:400px
+}
+
+.solution img{
+    height:500px; width:auto;
+}
